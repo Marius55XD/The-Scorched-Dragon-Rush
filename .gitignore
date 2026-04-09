@@ -1,0 +1,34 @@
+# Unity generated folders
+Library/
+Temp/
+Logs/
+obj/
+.vs/
+UserSettings/
+
+# Build outputs
+Build/
+Builds/
+
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Unity caches and generated metadata
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.apk
+*.aab
+*.ipa
+sysinfo.txt
