@@ -2,7 +2,7 @@
 
 ## Overview
 
-**The Scorched Dragon Rush** is a 2D platformer game built with Unity. The player navigates through challenging levels, avoiding obstacles and enemies while racing to the finish.
+**The Scorched Dragon Rush** is a 2D platformer game built with Unity. The player navigates through challenging level, avoiding obstacles while racing to the finish.
 
 ## Academic Context
 
@@ -21,6 +21,7 @@ This project was developed as part of a **Continuous Assessment (CA)** at **Mona
 - [Unity](https://unity.com/) — Game engine
 - C# — Scripting language
 - TextMesh Pro — UI text rendering
+- Youtube
 
 ## Getting Started
 
